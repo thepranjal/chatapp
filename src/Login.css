@@ -1,0 +1,20 @@
+.login{
+    display:grid;
+    place-items: center;
+    background-color: white;
+    width: 100vw;
+    height: 100vh;
+ 
+}
+.logi__container{
+    padding: 100px;
+    text-align: center;
+    background-color: white;
+    box-shadow: 0 1px 3px;
+    border-radius: 10px;
+}
+.login__container>button{
+    margin-top:50px;
+    text-transform: inherit;
+    background-color:lightgrey;
+}
